@@ -1,9 +1,9 @@
 # DERET BILANGAN FIBONACCI
-<enter/> Nama   : Vivie Zuliani Erikasari
+<enter/> Nama  : Vivie Zuliani Erikasari
 
 <enter> NIM    : 312210475
 
-Kelas  : TI.22.A5
+Kelas          : TI.22.A5
 
 Mata Kuliah    : Pemrograman Mobile 1
 
@@ -286,8 +286,9 @@ public class MainActivity extends AppCompatActivity {
 ![Picture](https://github.com/VivieZuliani/Deret-Bilangan-Fibonacci/assets/130271255/44cc9c24-d1d7-40b0-93aa-15157b1c5359)
 
 ### 4. Tampilan Run
+https://github.com/VivieZuliani/Deret-Bilangan-Fibonacci/assets/130271255/a51e3606-6e4d-4b54-9949-e2fd9441a9ee
 
-https://github.com/VivieZuliani/Deret-Bilangan-Fibonacci/assets/130271255/781a2af4-bf3c-4ba5-b3bc-928db16a3df6
+
 
 
 
