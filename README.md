@@ -278,7 +278,9 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ### 3. Tampilan (Design)
+![Picture](https://github.com/VivieZuliani/Deret-Bilangan-Fibonacci/assets/130271255/44cc9c24-d1d7-40b0-93aa-15157b1c5359)
 
 ### 4. Tampilan Run
+
 
 
