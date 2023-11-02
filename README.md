@@ -1,9 +1,14 @@
 # Deret-Bilangan-Fibonacci
-Nama   : Vivie Zuliani Erikasari 
-NIM    : 312210475
+<enter/> Nama   : Vivie Zuliani Erikasari
+
+<enter> NIM    : 312210475
+
 Kelas  : TI.22.A5
+
 Mata Kuliah    : Pemrograman Mobile 1
+
 Dosen Pengampu : Donny Maulana, S.Kom, M.M.S.I.
+
 Tugas          : Buatlah Method Program java Toast Number, dengan menghasilkan Bilangan Fibonacci
 
 ## Daftar Isi
@@ -281,6 +286,10 @@ public class MainActivity extends AppCompatActivity {
 ![Picture](https://github.com/VivieZuliani/Deret-Bilangan-Fibonacci/assets/130271255/44cc9c24-d1d7-40b0-93aa-15157b1c5359)
 
 ### 4. Tampilan Run
+
+https://github.com/VivieZuliani/Deret-Bilangan-Fibonacci/assets/130271255/781a2af4-bf3c-4ba5-b3bc-928db16a3df6
+
+
 
 
 
