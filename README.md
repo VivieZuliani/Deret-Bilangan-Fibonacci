@@ -1,4 +1,4 @@
-# Deret-Bilangan-Fibonacci
+# DERET BILANGAN FIBONACCI
 <enter/> Nama   : Vivie Zuliani Erikasari
 
 <enter> NIM    : 312210475
